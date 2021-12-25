@@ -13,5 +13,5 @@ Super-simple Node web app for containerization demos
 
 Used in the training.
 
-## Mainted by
+## Maintained by
 avikdeb@duckdoer.net.in
