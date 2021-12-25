@@ -1,4 +1,4 @@
-# Test app for demonstrating containerizing web app
+# Test app for demonstrating containerized web app
 
 Super-simple Node web app for containerization demos
 
@@ -12,3 +12,6 @@ Super-simple Node web app for containerization demos
 ## References
 
 Used in the training.
+
+## Mainted by
+avikdeb@duckdoer.net.in
